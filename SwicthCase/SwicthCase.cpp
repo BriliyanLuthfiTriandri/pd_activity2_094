@@ -55,7 +55,7 @@ int main() {
 			cout << "Masukan tinggi :";
 			cin >> tinggi;
 			cout << "Luas Segitiga = " << Luassegitiga(alas, tinggi);
-
+			break;
 		}
 	}
 
