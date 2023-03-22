@@ -32,4 +32,6 @@ int main() {
 	cout << "Masukan pilihan : ";
 	cin >> pilihan;
 
+
+	system("cls");
 }
