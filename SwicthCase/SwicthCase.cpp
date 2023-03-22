@@ -63,6 +63,11 @@ int main() {
 			cout << "Luas Lingkaran = " << Luaslingkaran(jejari);
 			break;
 
+		case 4:
+
+			break;
+		default:
+			cout <<
 		}
 	}
 
