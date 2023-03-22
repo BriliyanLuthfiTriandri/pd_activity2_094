@@ -29,4 +29,7 @@ int main() {
 	cout << "3. Luas Lingkaran" << endl;
 	cout << "4. Exit" << endl;
 
+	cout << "Masukan pilihan : ";
+	cin >> pilihan;
+
 }
