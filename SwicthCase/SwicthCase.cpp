@@ -67,7 +67,8 @@ int main() {
 
 			break;
 		default:
-			cout <<
+			cout << "Pilihan anda salah!";
+			break;
 		}
 	}
 
