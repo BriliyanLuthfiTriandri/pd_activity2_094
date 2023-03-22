@@ -70,8 +70,7 @@ int main() {
 			cout << "Pilihan anda salah!";
 			break;
 		}
-	}
+	} while (pilihan != 4);
 
-		
-	
+			
 }
