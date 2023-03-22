@@ -56,6 +56,13 @@ int main() {
 			cin >> tinggi;
 			cout << "Luas Segitiga = " << Luassegitiga(alas, tinggi);
 			break;
+
+		case 3:
+			cout << "Masukan Jari-jari : ";
+			cin >> jejari;
+			cout << "Luas Lingkaran = " << Luaslingkaran(jejari);
+			break;
+
 		}
 	}
 
